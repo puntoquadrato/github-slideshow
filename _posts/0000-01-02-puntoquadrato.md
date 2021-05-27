@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Luckily there is no sun!
 Use the left arrow to go back!
 
